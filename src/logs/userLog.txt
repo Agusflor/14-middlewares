@@ -1,0 +1,19 @@
+
+El usuario ingreso a la ruta: /music
+El usuario ingreso a la ruta: /music
+El usuario ingreso a la ruta: /login
+El usuario ingreso a la ruta: /admin?user=Agustina
+El usuario ingreso a la ruta: /admin?user=Agustina
+El usuario ingreso a la ruta: /noEntry
+El usuario ingreso a la ruta: /noEntry
+El usuario ingreso a la ruta: /noEntry
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /login
+El usuario ingreso a la ruta: /admin?user=greta
+El usuario ingreso a la ruta: /admin
+El usuario ingreso a la ruta: /noEntry
+El usuario ingreso a la ruta: /admin
+El usuario ingreso a la ruta: /noEntry
+El usuario ingreso a la ruta: /noEntry
+El usuario ingreso a la ruta: /login
+El usuario ingreso a la ruta: /admin?user=GRETA
